@@ -1,0 +1,5 @@
+export const SAVE_ACCOUNT = 'SAVE_ACCOUNT'
+export const SAVE_EOS = 'SAVE_EOS'
+export const SAVE_RPC = 'SAVE_RPC'
+export const SAVE_CHANNELUSER = 'SAVE_CHANNELUSER'
+export const SAVE_TABINDEX = 'SAVE_TABINDEX'
